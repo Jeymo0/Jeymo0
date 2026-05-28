@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📍 Currently based in Dublin, Ireland<br><br>📚 Currently learning Solidity and Rust<br><br>🧠 Working on an image segmentation project for brain tumour prognosis<br><br>🌐 <a href="https://asobowaleportfolio.vercel.app/">Portfolio</a></p>
+<p align="left">📍 Currently based in Dublin, Ireland<br><br>📚 Currently learning Solidity and Rust<br><br>🧠 Working on an image segmentation project for brain tumour prognosis<br><br>🌐 <a href="https://as-portfolio-rho.vercel.app/">Portfolio</a></p>
 
 ###
 
